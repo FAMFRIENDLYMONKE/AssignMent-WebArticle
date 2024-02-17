@@ -1,0 +1,41 @@
+#banner_top{
+    width: 100vw;
+    object-fit: contain;
+}
+
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50;
+}
+h3{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40;
+}
+p{
+    font-size: 25;
+    font-family:'Franklin Gothic Medium', 'Arial', Arial, sans-serif;
+}
+span{
+    font-size: 25;
+    font-family:'Franklin Gothic Medium', 'Arial', Arial, sans-serif;
+}
+.points{
+    font-weight: bold;
+    font-size: 30;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+/*
+.right{
+    position:relative;
+    margin-left: 50%;
+}
+.left{
+    position:relative;
+    margin-right: 50%;
+}
+
+.image{
+    height: 20vh;
+    width: 20vh;
+} 
+*/
